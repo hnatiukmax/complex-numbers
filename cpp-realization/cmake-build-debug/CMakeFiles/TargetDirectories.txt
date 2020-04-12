@@ -1,0 +1,3 @@
+D:/Projects/program-products/complex-numbers/cpp-realization/cmake-build-debug/CMakeFiles/WorkableTest.dir
+D:/Projects/program-products/complex-numbers/cpp-realization/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/program-products/complex-numbers/cpp-realization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
